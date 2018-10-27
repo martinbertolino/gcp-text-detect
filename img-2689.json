@@ -1,0 +1,46 @@
+Text:
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: 'it',
+  description: 'Vasily Kandinsky\n',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 153, y: 2496 },
+        { x: 3844, y: 2496 },
+        { x: 3844, y: 2952 },
+        { x: 153, y: 2952 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Vasily',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 153, y: 2506 },
+        { x: 1389, y: 2506 },
+        { x: 1389, y: 2952 },
+        { x: 153, y: 2952 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Kandinsky',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1539, y: 2496 },
+        { x: 3844, y: 2496 },
+        { x: 3844, y: 2952 },
+        { x: 1539, y: 2952 } ],
+     normalizedVertices: [] } }

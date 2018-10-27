@@ -1,0 +1,902 @@
+Text:
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: 'en',
+  description:
+   'Basic Category Theory for Computer Scientists Pierce\nStructure and Interpretation of Computer Program:s\nSecond Edition\nAbelson and Sussman\nSERVICE DESIGN PATTERNS DAIGNEAU\nSi\nENTERPRISE INTEGRATION PATTERNS\nHOH PE-WOLF\n:\nDOMAIN-SPECIFIC\nLANGUAGES\nTw1ERM\nREFACTORING DATABASES\nAMBLER . SADA LAGE\nTest-Drive ASP.NET MVC\nMcCracken\nApplying Domain-Driven Design and Patterns\nSTEPHEN HAWKING LEONARD GRAND DESIGN 얘\n',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 964, y: 269 },
+        { x: 3905, y: 269 },
+        { x: 3905, y: 2913 },
+        { x: 964, y: 2913 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Basic',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1009, y: 2783 },
+        { x: 1005, y: 2538 },
+        { x: 1092, y: 2537 },
+        { x: 1096, y: 2782 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Category',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1007, y: 2516 },
+        { x: 1000, y: 2102 },
+        { x: 1113, y: 2100 },
+        { x: 1120, y: 2514 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Theory',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1002, y: 2078 },
+        { x: 996, y: 1739 },
+        { x: 1109, y: 1737 },
+        { x: 1115, y: 2076 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'for',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 996, y: 1716 },
+        { x: 994, y: 1580 },
+        { x: 1083, y: 1578 },
+        { x: 1085, y: 1714 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Computer',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 992, y: 1559 },
+        { x: 984, y: 1090 },
+        { x: 1097, y: 1088 },
+        { x: 1105, y: 1557 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Scientists',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 980, y: 1069 },
+        { x: 973, y: 643 },
+        { x: 1066, y: 641 },
+        { x: 1073, y: 1067 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Pierce',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 970, y: 628 },
+        { x: 964, y: 271 },
+        { x: 1081, y: 269 },
+        { x: 1087, y: 626 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Structure',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1295, y: 2911 },
+        { x: 1292, y: 2574 },
+        { x: 1387, y: 2573 },
+        { x: 1390, y: 2910 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'and',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1291, y: 2521 },
+        { x: 1290, y: 2395 },
+        { x: 1385, y: 2394 },
+        { x: 1386, y: 2520 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Interpretation',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1289, y: 2344 },
+        { x: 1284, y: 1810 },
+        { x: 1379, y: 1809 },
+        { x: 1384, y: 2343 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'of',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1283, y: 1775 },
+        { x: 1282, y: 1696 },
+        { x: 1377, y: 1695 },
+        { x: 1378, y: 1774 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Computer',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1283, y: 1663 },
+        { x: 1279, y: 1275 },
+        { x: 1374, y: 1274 },
+        { x: 1378, y: 1662 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Program:s',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1279, y: 1240 },
+        { x: 1275, y: 867 },
+        { x: 1370, y: 866 },
+        { x: 1374, y: 1239 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Second',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1429, y: 2905 },
+        { x: 1429, y: 2704 },
+        { x: 1483, y: 2704 },
+        { x: 1483, y: 2905 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Edition',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1429, y: 2679 },
+        { x: 1429, y: 2492 },
+        { x: 1481, y: 2492 },
+        { x: 1481, y: 2679 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Abelson',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1425, y: 2143 },
+        { x: 1425, y: 1922 },
+        { x: 1477, y: 1922 },
+        { x: 1477, y: 2143 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'and',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1423, y: 1897 },
+        { x: 1423, y: 1796 },
+        { x: 1475, y: 1796 },
+        { x: 1475, y: 1897 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Sussman',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1425, y: 1771 },
+        { x: 1425, y: 1521 },
+        { x: 1475, y: 1521 },
+        { x: 1475, y: 1771 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'SERVICE',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1732, y: 2575 },
+        { x: 1728, y: 2139 },
+        { x: 1841, y: 2138 },
+        { x: 1845, y: 2574 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'DESIGN',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1728, y: 2098 },
+        { x: 1724, y: 1716 },
+        { x: 1837, y: 1715 },
+        { x: 1841, y: 2097 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'PATTERNS',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1724, y: 1657 },
+        { x: 1719, y: 1178 },
+        { x: 1832, y: 1177 },
+        { x: 1837, y: 1656 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'DAIGNEAU',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1718, y: 1082 },
+        { x: 1713, y: 583 },
+        { x: 1826, y: 582 },
+        { x: 1831, y: 1081 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Si',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2128, y: 2724 },
+        { x: 2127, y: 2696 },
+        { x: 2153, y: 2695 },
+        { x: 2154, y: 2723 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'ENTERPRISE',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2199, y: 2545 },
+        { x: 2197, y: 2076 },
+        { x: 2276, y: 2076 },
+        { x: 2278, y: 2545 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'INTEGRATION',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2197, y: 2049 },
+        { x: 2195, y: 1517 },
+        { x: 2270, y: 1517 },
+        { x: 2272, y: 2049 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'PATTERNS',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2195, y: 1488 },
+        { x: 2193, y: 1096 },
+        { x: 2268, y: 1096 },
+        { x: 2270, y: 1488 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'HOH',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2199, y: 988 },
+        { x: 2198, y: 842 },
+        { x: 2259, y: 842 },
+        { x: 2260, y: 988 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'PE',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2218, y: 836 },
+        { x: 2218, y: 776 },
+        { x: 2254, y: 776 },
+        { x: 2254, y: 836 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '-',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2201, y: 757 },
+        { x: 2201, y: 697 },
+        { x: 2253, y: 697 },
+        { x: 2253, y: 757 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'WOLF',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2201, y: 696 },
+        { x: 2200, y: 503 },
+        { x: 2258, y: 503 },
+        { x: 2259, y: 696 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: ':',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2181, y: 356 },
+        { x: 2181, y: 310 },
+        { x: 2282, y: 310 },
+        { x: 2282, y: 356 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'DOMAIN',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2588, y: 2472 },
+        { x: 2599, y: 1873 },
+        { x: 2722, y: 1875 },
+        { x: 2711, y: 2474 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '-',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2618, y: 1872 },
+        { x: 2620, y: 1785 },
+        { x: 2707, y: 1787 },
+        { x: 2705, y: 1874 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'SPECIFIC',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2581, y: 1787 },
+        { x: 2592, y: 1178 },
+        { x: 2715, y: 1180 },
+        { x: 2704, y: 1789 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'LANGUAGES',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2728, y: 2525 },
+        { x: 2715, y: 1676 },
+        { x: 2838, y: 1674 },
+        { x: 2851, y: 2523 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Tw1ERM',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2640, y: 1076 },
+        { x: 2649, y: 564 },
+        { x: 2770, y: 566 },
+        { x: 2761, y: 1078 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'REFACTORING',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3043, y: 2476 },
+        { x: 3043, y: 1804 },
+        { x: 3130, y: 1804 },
+        { x: 3130, y: 2476 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'DATABASES',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3037, y: 1771 },
+        { x: 3037, y: 1253 },
+        { x: 3128, y: 1253 },
+        { x: 3128, y: 1771 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'AMBLER',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3037, y: 1169 },
+        { x: 3037, y: 909 },
+        { x: 3140, y: 909 },
+        { x: 3140, y: 1169 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '.',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3069, y: 881 },
+        { x: 3069, y: 859 },
+        { x: 3089, y: 859 },
+        { x: 3089, y: 881 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'SADA',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3055, y: 834 },
+        { x: 3055, y: 694 },
+        { x: 3103, y: 694 },
+        { x: 3103, y: 834 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'LAGE',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3069, y: 689 },
+        { x: 3069, y: 559 },
+        { x: 3105, y: 559 },
+        { x: 3105, y: 689 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Test',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3285, y: 2687 },
+        { x: 3285, y: 2427 },
+        { x: 3368, y: 2427 },
+        { x: 3368, y: 2687 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '-',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3285, y: 2427 },
+        { x: 3285, y: 2364 },
+        { x: 3368, y: 2364 },
+        { x: 3368, y: 2427 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Drive',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3285, y: 2362 },
+        { x: 3285, y: 2070 },
+        { x: 3368, y: 2070 },
+        { x: 3368, y: 2362 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'ASP.NET',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3285, y: 2033 },
+        { x: 3285, y: 1489 },
+        { x: 3370, y: 1489 },
+        { x: 3370, y: 2033 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'MVC',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3287, y: 1447 },
+        { x: 3287, y: 1157 },
+        { x: 3374, y: 1157 },
+        { x: 3374, y: 1447 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'McCracken',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3335, y: 984 },
+        { x: 3335, y: 606 },
+        { x: 3387, y: 606 },
+        { x: 3387, y: 984 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Applying',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3579, y: 2453 },
+        { x: 3586, y: 2086 },
+        { x: 3693, y: 2088 },
+        { x: 3686, y: 2455 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Domain-Driven',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3590, y: 2055 },
+        { x: 3602, y: 1401 },
+        { x: 3683, y: 1403 },
+        { x: 3671, y: 2056 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Design',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3604, y: 1364 },
+        { x: 3609, y: 1070 },
+        { x: 3710, y: 1072 },
+        { x: 3705, y: 1366 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'and',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3638, y: 1039 },
+        { x: 3640, y: 928 },
+        { x: 3692, y: 929 },
+        { x: 3690, y: 1040 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Patterns',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3622, y: 893 },
+        { x: 3628, y: 542 },
+        { x: 3701, y: 543 },
+        { x: 3695, y: 894 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'STEPHEN',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3825, y: 2811 },
+        { x: 3825, y: 2352 },
+        { x: 3904, y: 2352 },
+        { x: 3904, y: 2811 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'HAWKING',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3823, y: 2317 },
+        { x: 3823, y: 1813 },
+        { x: 3904, y: 1813 },
+        { x: 3904, y: 2317 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'LEONARD',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3815, y: 1712 },
+        { x: 3815, y: 1446 },
+        { x: 3859, y: 1446 },
+        { x: 3859, y: 1712 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'GRAND',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3821, y: 1317 },
+        { x: 3821, y: 958 },
+        { x: 3900, y: 958 },
+        { x: 3900, y: 1317 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'DESIGN',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3821, y: 921 },
+        { x: 3821, y: 546 },
+        { x: 3900, y: 546 },
+        { x: 3900, y: 921 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '얘',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 3813, y: 498 },
+        { x: 3813, y: 377 },
+        { x: 3904, y: 377 },
+        { x: 3904, y: 498 } ],
+     normalizedVertices: [] } }

@@ -1,0 +1,76 @@
+Text:
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: 'cy',
+  description: 'IOMİ 1GIYM3071F510966/\nF5109667\n',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 405, y: 1693 },
+        { x: 2857, y: 1693 },
+        { x: 2857, y: 1986 },
+        { x: 405, y: 1986 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'IOMİ',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 974, y: 1693 },
+        { x: 1201, y: 1698 },
+        { x: 1197, y: 1866 },
+        { x: 970, y: 1861 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '1GIYM3071F510966',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1279, y: 1699 },
+        { x: 2758, y: 1730 },
+        { x: 2754, y: 1888 },
+        { x: 1276, y: 1857 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '/',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2793, y: 1736 },
+        { x: 2856, y: 1737 },
+        { x: 2853, y: 1883 },
+        { x: 2790, y: 1882 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'F5109667',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 405, y: 1943 },
+        { x: 676, y: 1943 },
+        { x: 676, y: 1986 },
+        { x: 405, y: 1986 } ],
+     normalizedVertices: [] } }

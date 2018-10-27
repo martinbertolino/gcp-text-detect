@@ -1,0 +1,572 @@
+Text:
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: 'en',
+  description:
+   'les a 回Issue Date: 08/28/2017\nInsp Type: Safety &\nEmissions\nStation#: 096956\nVIN: 1G1YM3D71F5109667\nSticker#SSY0 1034408281 7124811\nGate way Vehicle Inspection Program\nhis Inspection is mandated by your United States Congress\n',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 744, y: 775 },
+        { x: 3100, y: 775 },
+        { x: 3100, y: 2415 },
+        { x: 744, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'les',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 799, y: 775 },
+        { x: 1062, y: 775 },
+        { x: 1062, y: 967 },
+        { x: 799, y: 967 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'a',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1114, y: 779 },
+        { x: 1269, y: 779 },
+        { x: 1269, y: 967 },
+        { x: 1114, y: 967 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '回',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1315, y: 779 },
+        { x: 1492, y: 779 },
+        { x: 1492, y: 962 },
+        { x: 1315, y: 962 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Issue',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1492, y: 807 },
+        { x: 1820, y: 807 },
+        { x: 1820, y: 940 },
+        { x: 1492, y: 940 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Date',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1876, y: 803 },
+        { x: 2141, y: 803 },
+        { x: 2141, y: 944 },
+        { x: 1876, y: 944 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: ':',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2141, y: 813 },
+        { x: 2196, y: 813 },
+        { x: 2196, y: 940 },
+        { x: 2141, y: 940 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '08/28/2017',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2264, y: 779 },
+        { x: 3100, y: 779 },
+        { x: 3100, y: 954 },
+        { x: 2264, y: 954 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Insp',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1543, y: 1023 },
+        { x: 1812, y: 1023 },
+        { x: 1812, y: 1196 },
+        { x: 1543, y: 1196 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Type:',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1860, y: 1019 },
+        { x: 2222, y: 1019 },
+        { x: 2222, y: 1196 },
+        { x: 1860, y: 1196 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Safety',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2269, y: 1013 },
+        { x: 2741, y: 1013 },
+        { x: 2741, y: 1221 },
+        { x: 2269, y: 1221 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '&',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2795, y: 1019 },
+        { x: 2915, y: 1019 },
+        { x: 2915, y: 1190 },
+        { x: 2795, y: 1190 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Emissions',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2275, y: 1263 },
+        { x: 3057, y: 1266 },
+        { x: 3056, y: 1430 },
+        { x: 2274, y: 1427 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Station',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1651, y: 1466 },
+        { x: 2110, y: 1486 },
+        { x: 2103, y: 1632 },
+        { x: 1645, y: 1612 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '#',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2112, y: 1470 },
+        { x: 2193, y: 1474 },
+        { x: 2187, y: 1615 },
+        { x: 2106, y: 1612 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: ':',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2191, y: 1504 },
+        { x: 2229, y: 1506 },
+        { x: 2224, y: 1619 },
+        { x: 2186, y: 1617 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '096956',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2271, y: 1468 },
+        { x: 2820, y: 1492 },
+        { x: 2812, y: 1683 },
+        { x: 2263, y: 1659 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'VIN:',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 771, y: 1734 },
+        { x: 1050, y: 1734 },
+        { x: 1050, y: 1875 },
+        { x: 771, y: 1875 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '1G1YM3D71F5109667',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1149, y: 1716 },
+        { x: 2830, y: 1716 },
+        { x: 2830, y: 1889 },
+        { x: 1149, y: 1889 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Sticker',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 755, y: 1945 },
+        { x: 1231, y: 1945 },
+        { x: 1231, y: 2090 },
+        { x: 755, y: 2090 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '#',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1228, y: 1945 },
+        { x: 1314, y: 1945 },
+        { x: 1314, y: 2086 },
+        { x: 1228, y: 2086 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'SSY0',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1311, y: 1949 },
+        { x: 1669, y: 1949 },
+        { x: 1669, y: 2082 },
+        { x: 1311, y: 2082 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '1034408281',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1681, y: 1952 },
+        { x: 2397, y: 1952 },
+        { x: 2397, y: 2085 },
+        { x: 1681, y: 2085 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: '7124811',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2417, y: 1952 },
+        { x: 2917, y: 1952 },
+        { x: 2917, y: 2089 },
+        { x: 2417, y: 2089 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Gate',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 750, y: 2159 },
+        { x: 1009, y: 2159 },
+        { x: 1009, y: 2292 },
+        { x: 750, y: 2292 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'way',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1021, y: 2191 },
+        { x: 1255, y: 2191 },
+        { x: 1255, y: 2303 },
+        { x: 1021, y: 2303 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Vehicle',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1297, y: 2155 },
+        { x: 1734, y: 2155 },
+        { x: 1734, y: 2292 },
+        { x: 1297, y: 2292 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Inspection',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1791, y: 2159 },
+        { x: 2395, y: 2159 },
+        { x: 2395, y: 2298 },
+        { x: 1791, y: 2298 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Program',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2449, y: 2163 },
+        { x: 2952, y: 2163 },
+        { x: 2952, y: 2302 },
+        { x: 2449, y: 2302 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'his',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 744, y: 2299 },
+        { x: 842, y: 2299 },
+        { x: 842, y: 2415 },
+        { x: 744, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Inspection',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 860, y: 2299 },
+        { x: 1243, y: 2299 },
+        { x: 1243, y: 2415 },
+        { x: 860, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'is',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1283, y: 2299 },
+        { x: 1342, y: 2299 },
+        { x: 1342, y: 2415 },
+        { x: 1283, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'mandated',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1382, y: 2299 },
+        { x: 1744, y: 2299 },
+        { x: 1744, y: 2415 },
+        { x: 1382, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'by',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1765, y: 2299 },
+        { x: 1863, y: 2299 },
+        { x: 1863, y: 2415 },
+        { x: 1765, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'your',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 1886, y: 2299 },
+        { x: 2065, y: 2299 },
+        { x: 2065, y: 2415 },
+        { x: 1886, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'United',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2086, y: 2299 },
+        { x: 2328, y: 2299 },
+        { x: 2328, y: 2415 },
+        { x: 2086, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'States',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2368, y: 2299 },
+        { x: 2586, y: 2299 },
+        { x: 2586, y: 2415 },
+        { x: 2368, y: 2415 } ],
+     normalizedVertices: [] } }
+{ locations: [],
+  properties: [],
+  mid: '',
+  locale: '',
+  description: 'Congress',
+  score: 0,
+  confidence: 0,
+  topicality: 0,
+  boundingPoly:
+   { vertices:
+      [ { x: 2608, y: 2299 },
+        { x: 2948, y: 2299 },
+        { x: 2948, y: 2415 },
+        { x: 2608, y: 2415 } ],
+     normalizedVertices: [] } }
